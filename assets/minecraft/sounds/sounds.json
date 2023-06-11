@@ -1,0 +1,15 @@
+{
+  "music.game": {
+	"replace": true,
+	"sounds": [
+	  {
+	    "name": "music/game/lullaby0",
+	    "stream": true
+	  },
+	  {
+	    "name": "music/game/lullaby1",
+	    "stream": true
+	  }
+	]
+  }
+}
